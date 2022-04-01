@@ -69,11 +69,11 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 3. Our Model can succesfully detect face and predict emotion on live video feed as well as on an image.
 
 
-To access weblink please click on this link(streamlit share) :https://share.streamlit.io/deven876/face-emotion-recognition/main/app.py
+To access weblink please click on this link(streamlit share) :https://share.streamlit.io/vidhuran-rajendran/face_emotion_recognition/main/app.py
 
 If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
 
-https://github.com/Deven876/Face-Emotion-Recognition/blob/main/sample%20video.mp4
+https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Live%20class%20Monitoring%20System(Face%20Emotion%20Recognition).ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202022-04-01%2012-38-05.mp4
 
 
 
@@ -88,7 +88,7 @@ https://github.com/Deven876/Face-Emotion-Recognition/blob/main/sample%20video.mp
 
 
 
-![image](https://user-images.githubusercontent.com/92842078/160662251-89c57a70-6917-4293-b7c7-e55f3e10bb3e.png)
+![image](https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Picture1.png)
 
 
 
@@ -96,7 +96,7 @@ https://github.com/Deven876/Face-Emotion-Recognition/blob/main/sample%20video.mp
 
 
 
-![image](https://user-images.githubusercontent.com/92842078/160662304-d6fff536-8721-4511-a0cc-e765e264e25a.png)
+![image](https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Picture2.png)
 
 
 
