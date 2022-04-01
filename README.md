@@ -73,7 +73,7 @@ To access weblink please click on this link(streamlit share) :https://share.stre
 
 If unable to access, a video named Sample.mp4 has been upload in repository. Please feel free to have a look.
 
-https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Live%20class%20Monitoring%20System(Face%20Emotion%20Recognition).ipynb%20-%20Colaboratory%20-%20Google%20Chrome%202022-04-01%2012-38-05.mp4
+https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Live%20class%20Monitoring%20System(Face%20Emotion%20Recognition)sample_video.mp4
 
 
 
