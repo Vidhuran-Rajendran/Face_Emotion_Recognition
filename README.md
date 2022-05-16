@@ -25,11 +25,31 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 ![image](https://user-images.githubusercontent.com/92842078/160650577-23052d5a-778d-453d-8ed1-8f63d263b19f.png)
 
 
-## 1. Problem Statement
+## 📋1. Problem Statement
 
 We will solve the above-mentioned challenge by applying deep learning algorithms to live video data.
 The solution to this problem is by **recognizing facial emotions**.
 
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
+
+# 💾 Project Files Description
+This Project includes 2 executable files, 2 text files as well as a directory as follows:
+
+###Executable Files:
+
+1. Live_class_Monitoring_System(Face_Emotion_Recognition).ipynb- Includes all functions required for running recognition functions.
+2. app.py - It contains streamlit deployment codes.
+
+###Output Files:
+1. model.json - CNN model trained file.
+2. requirements.txt- Contains information about packages and versions need my project.
+3.runtime.txt- Contains python version used for project training.
+
+###Source Directories:
+FER2013 -Contains train and test data
+
+
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
 
 ## 2. Face Emotion Recognition Model
 
@@ -63,11 +83,15 @@ Hyper-parameter that were used are epochs = 100,batch_size = 64 and learning_rat
 
 ![Confusion Matrix](https://user-images.githubusercontent.com/92842078/160648272-db6bf451-b6eb-4c12-be10-c58e8d961b42.png)
 
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
+
 # 3. Conclusions 
 1. We trained the neural network and we achieved the highest validation accuracy of 61%.
 2. Pre Trained Model gave good accuracy for emotion around 80%. Can not say the same for other features.(As you can see, the image we used shows scared emotion where as emotion predicted was surprise. . Out of 5, 4 results were good (emotion wise) only 1 got misclassified.
 3. Our Model can succesfully detect face and predict emotion on live video feed as well as on an image.
 
+
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
 
 To access weblink please click on this link(streamlit share) :https://share.streamlit.io/vidhuran-rajendran/face_emotion_recognition/main/app.py
 
@@ -104,8 +128,16 @@ https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Live%20
 
 **Live face and emotion detection can be easily done with the help of our model.**
 
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
 
 
+![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
 
+# 📚 References:
+1. Available: https://www.coursera.org/projects/facial-expression-recognition-keras
+2. Available: https://katoch.medium.com/emotion-recognition-using-keras-ba66de7bd3a
+3. Available: https://paperswithcode.com/task/facial-expression-recognition
+4. Available: https://towardsdatascience.com/face-detection-recognition-and-emotion-detection-in-8-lines-of-code-b2ce32d4d5de
+5. Available: https://github.com/topics/facial-expression-recognition
 
 
