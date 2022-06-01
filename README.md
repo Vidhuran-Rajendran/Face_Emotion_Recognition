@@ -139,7 +139,7 @@ https://github.com/Vidhuran-Rajendran/Face_Emotion_Recognition/blob/main/Live%20
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhuran)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/Vidhuran-Rajendran)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vidhuran_07)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1HSeJuuW5Gtx4OP6rIhzlibc3b-4j7260/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1g8TKij0t2ugF3QtAKLQkmKc4JAZcU2MB/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/71205649/168511844-fdbafdd5-1574-4c0e-9dd1-bef48447a644.png)
 
